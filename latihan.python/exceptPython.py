@@ -9,7 +9,7 @@ while True:
 
 Kuadrat = pow(angka, 2)
 print("Kuadrat = ", Kuadrat)
-S
+
     
 #2
 while True:   
